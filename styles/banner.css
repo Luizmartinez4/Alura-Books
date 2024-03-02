@@ -31,7 +31,7 @@
     text-align: center;
     color: var(--cor-branco);
     background: url(../Assets/Lupa.svg) no-repeat;
-    background-position: 2em;
+    background-position: 1em;
 }
 
 @media screen and (min-width: 1024px) {
@@ -48,7 +48,7 @@
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 5.5em;
+        background-position: 3em;
     }
 }
 
